@@ -1,5 +1,7 @@
 ### COSC364 RIP Assignment
 
+Assignment for COSC364 at the University of Canterbury.
+
 # Running the project:
 - Clone the repo
 - cd into /src (need seven terminals open at /src)
